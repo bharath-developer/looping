@@ -1,0 +1,6 @@
+C:\Users\blow\source\repos\n odd sum - looping\n odd sum - looping\bin\Debug\n odd sum - looping.exe.config
+C:\Users\blow\source\repos\n odd sum - looping\n odd sum - looping\bin\Debug\n odd sum - looping.exe
+C:\Users\blow\source\repos\n odd sum - looping\n odd sum - looping\bin\Debug\n odd sum - looping.pdb
+C:\Users\blow\source\repos\n odd sum - looping\n odd sum - looping\obj\Debug\n odd sum - looping.csproj.CoreCompileInputs.cache
+C:\Users\blow\source\repos\n odd sum - looping\n odd sum - looping\obj\Debug\n odd sum - looping.exe
+C:\Users\blow\source\repos\n odd sum - looping\n odd sum - looping\obj\Debug\n odd sum - looping.pdb

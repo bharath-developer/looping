@@ -1,0 +1,6 @@
+C:\Users\blow\source\repos\right angled triangle star  - looping\right angled triangle star  - looping\bin\Debug\right angled triangle star  - looping.exe.config
+C:\Users\blow\source\repos\right angled triangle star  - looping\right angled triangle star  - looping\bin\Debug\right angled triangle star  - looping.exe
+C:\Users\blow\source\repos\right angled triangle star  - looping\right angled triangle star  - looping\bin\Debug\right angled triangle star  - looping.pdb
+C:\Users\blow\source\repos\right angled triangle star  - looping\right angled triangle star  - looping\obj\Debug\right angled triangle star  - looping.csproj.CoreCompileInputs.cache
+C:\Users\blow\source\repos\right angled triangle star  - looping\right angled triangle star  - looping\obj\Debug\right angled triangle star  - looping.exe
+C:\Users\blow\source\repos\right angled triangle star  - looping\right angled triangle star  - looping\obj\Debug\right angled triangle star  - looping.pdb

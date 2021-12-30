@@ -1,0 +1,6 @@
+C:\Users\blow\source\repos\vertically n table - looping\vertically n table - looping\bin\Debug\vertically n table - looping.exe.config
+C:\Users\blow\source\repos\vertically n table - looping\vertically n table - looping\bin\Debug\vertically n table - looping.exe
+C:\Users\blow\source\repos\vertically n table - looping\vertically n table - looping\bin\Debug\vertically n table - looping.pdb
+C:\Users\blow\source\repos\vertically n table - looping\vertically n table - looping\obj\Debug\vertically n table - looping.csproj.CoreCompileInputs.cache
+C:\Users\blow\source\repos\vertically n table - looping\vertically n table - looping\obj\Debug\vertically n table - looping.exe
+C:\Users\blow\source\repos\vertically n table - looping\vertically n table - looping\obj\Debug\vertically n table - looping.pdb

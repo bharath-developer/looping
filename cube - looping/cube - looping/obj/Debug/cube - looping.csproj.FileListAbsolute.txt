@@ -1,0 +1,6 @@
+C:\Users\blow\source\repos\cube - looping\cube - looping\bin\Debug\cube - looping.exe.config
+C:\Users\blow\source\repos\cube - looping\cube - looping\bin\Debug\cube - looping.exe
+C:\Users\blow\source\repos\cube - looping\cube - looping\bin\Debug\cube - looping.pdb
+C:\Users\blow\source\repos\cube - looping\cube - looping\obj\Debug\cube - looping.csproj.CoreCompileInputs.cache
+C:\Users\blow\source\repos\cube - looping\cube - looping\obj\Debug\cube - looping.exe
+C:\Users\blow\source\repos\cube - looping\cube - looping\obj\Debug\cube - looping.pdb

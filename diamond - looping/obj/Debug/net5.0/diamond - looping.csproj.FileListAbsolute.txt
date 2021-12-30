@@ -1,0 +1,16 @@
+G:\dotnet\Console application\diamond - looping\bin\Debug\net5.0\diamond - looping.exe
+G:\dotnet\Console application\diamond - looping\bin\Debug\net5.0\diamond - looping.deps.json
+G:\dotnet\Console application\diamond - looping\bin\Debug\net5.0\diamond - looping.runtimeconfig.json
+G:\dotnet\Console application\diamond - looping\bin\Debug\net5.0\diamond - looping.runtimeconfig.dev.json
+G:\dotnet\Console application\diamond - looping\bin\Debug\net5.0\diamond - looping.dll
+G:\dotnet\Console application\diamond - looping\bin\Debug\net5.0\ref\diamond - looping.dll
+G:\dotnet\Console application\diamond - looping\bin\Debug\net5.0\diamond - looping.pdb
+G:\dotnet\Console application\diamond - looping\obj\Debug\net5.0\diamond - looping.csproj.AssemblyReference.cache
+G:\dotnet\Console application\diamond - looping\obj\Debug\net5.0\diamond - looping.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\diamond - looping\obj\Debug\net5.0\diamond - looping.AssemblyInfoInputs.cache
+G:\dotnet\Console application\diamond - looping\obj\Debug\net5.0\diamond - looping.AssemblyInfo.cs
+G:\dotnet\Console application\diamond - looping\obj\Debug\net5.0\diamond - looping.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\diamond - looping\obj\Debug\net5.0\diamond - looping.dll
+G:\dotnet\Console application\diamond - looping\obj\Debug\net5.0\ref\diamond - looping.dll
+G:\dotnet\Console application\diamond - looping\obj\Debug\net5.0\diamond - looping.pdb
+G:\dotnet\Console application\diamond - looping\obj\Debug\net5.0\diamond - looping.genruntimeconfig.cache

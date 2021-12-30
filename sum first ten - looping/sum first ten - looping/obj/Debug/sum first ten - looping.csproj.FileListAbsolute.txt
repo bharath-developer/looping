@@ -1,0 +1,7 @@
+C:\Users\blow\source\repos\sum first ten - looping\sum first ten - looping\bin\Debug\sum first ten - looping.exe.config
+C:\Users\blow\source\repos\sum first ten - looping\sum first ten - looping\bin\Debug\sum first ten - looping.exe
+C:\Users\blow\source\repos\sum first ten - looping\sum first ten - looping\bin\Debug\sum first ten - looping.pdb
+C:\Users\blow\source\repos\sum first ten - looping\sum first ten - looping\obj\Debug\sum first ten - looping.csproj.AssemblyReference.cache
+C:\Users\blow\source\repos\sum first ten - looping\sum first ten - looping\obj\Debug\sum first ten - looping.csproj.CoreCompileInputs.cache
+C:\Users\blow\source\repos\sum first ten - looping\sum first ten - looping\obj\Debug\sum first ten - looping.exe
+C:\Users\blow\source\repos\sum first ten - looping\sum first ten - looping\obj\Debug\sum first ten - looping.pdb

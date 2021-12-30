@@ -1,0 +1,16 @@
+G:\dotnet\Console application\number pyramid - looping\obj\Debug\net5.0\number pyramid - looping.csproj.AssemblyReference.cache
+G:\dotnet\Console application\number pyramid - looping\obj\Debug\net5.0\number pyramid - looping.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\number pyramid - looping\obj\Debug\net5.0\number pyramid - looping.AssemblyInfoInputs.cache
+G:\dotnet\Console application\number pyramid - looping\obj\Debug\net5.0\number pyramid - looping.AssemblyInfo.cs
+G:\dotnet\Console application\number pyramid - looping\obj\Debug\net5.0\number pyramid - looping.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\number pyramid - looping\bin\Debug\net5.0\number pyramid - looping.exe
+G:\dotnet\Console application\number pyramid - looping\bin\Debug\net5.0\number pyramid - looping.deps.json
+G:\dotnet\Console application\number pyramid - looping\bin\Debug\net5.0\number pyramid - looping.runtimeconfig.json
+G:\dotnet\Console application\number pyramid - looping\bin\Debug\net5.0\number pyramid - looping.runtimeconfig.dev.json
+G:\dotnet\Console application\number pyramid - looping\bin\Debug\net5.0\number pyramid - looping.dll
+G:\dotnet\Console application\number pyramid - looping\bin\Debug\net5.0\ref\number pyramid - looping.dll
+G:\dotnet\Console application\number pyramid - looping\bin\Debug\net5.0\number pyramid - looping.pdb
+G:\dotnet\Console application\number pyramid - looping\obj\Debug\net5.0\number pyramid - looping.dll
+G:\dotnet\Console application\number pyramid - looping\obj\Debug\net5.0\ref\number pyramid - looping.dll
+G:\dotnet\Console application\number pyramid - looping\obj\Debug\net5.0\number pyramid - looping.pdb
+G:\dotnet\Console application\number pyramid - looping\obj\Debug\net5.0\number pyramid - looping.genruntimeconfig.cache

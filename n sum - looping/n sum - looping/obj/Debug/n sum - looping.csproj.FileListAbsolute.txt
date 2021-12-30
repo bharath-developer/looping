@@ -1,0 +1,6 @@
+C:\Users\blow\source\repos\n sum - looping\n sum - looping\bin\Debug\n sum - looping.exe.config
+C:\Users\blow\source\repos\n sum - looping\n sum - looping\bin\Debug\n sum - looping.exe
+C:\Users\blow\source\repos\n sum - looping\n sum - looping\bin\Debug\n sum - looping.pdb
+C:\Users\blow\source\repos\n sum - looping\n sum - looping\obj\Debug\n sum - looping.csproj.CoreCompileInputs.cache
+C:\Users\blow\source\repos\n sum - looping\n sum - looping\obj\Debug\n sum - looping.exe
+C:\Users\blow\source\repos\n sum - looping\n sum - looping\obj\Debug\n sum - looping.pdb

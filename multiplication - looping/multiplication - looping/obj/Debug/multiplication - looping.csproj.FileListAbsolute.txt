@@ -1,0 +1,6 @@
+C:\Users\blow\source\repos\multiplication - looping\multiplication - looping\bin\Debug\multiplication - looping.exe.config
+C:\Users\blow\source\repos\multiplication - looping\multiplication - looping\bin\Debug\multiplication - looping.exe
+C:\Users\blow\source\repos\multiplication - looping\multiplication - looping\bin\Debug\multiplication - looping.pdb
+C:\Users\blow\source\repos\multiplication - looping\multiplication - looping\obj\Debug\multiplication - looping.csproj.CoreCompileInputs.cache
+C:\Users\blow\source\repos\multiplication - looping\multiplication - looping\obj\Debug\multiplication - looping.exe
+C:\Users\blow\source\repos\multiplication - looping\multiplication - looping\obj\Debug\multiplication - looping.pdb

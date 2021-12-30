@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiplication - looping", "multiplication - looping\multiplication - looping.csproj", "{D6B325BF-861F-481E-A390-E2B02C139715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B325BF-861F-481E-A390-E2B02C139715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B325BF-861F-481E-A390-E2B02C139715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B325BF-861F-481E-A390-E2B02C139715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B325BF-861F-481E-A390-E2B02C139715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {476BDF89-370D-4553-BFB0-2C0FDB51A62E}
+	EndGlobalSection
+EndGlobal

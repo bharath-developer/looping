@@ -1,0 +1,7 @@
+C:\Users\blow\source\repos\right angle triangle with number - looping\right angle triangle with number - looping\bin\Debug\right angle triangle with number - looping.exe.config
+C:\Users\blow\source\repos\right angle triangle with number - looping\right angle triangle with number - looping\bin\Debug\right angle triangle with number - looping.exe
+C:\Users\blow\source\repos\right angle triangle with number - looping\right angle triangle with number - looping\bin\Debug\right angle triangle with number - looping.pdb
+C:\Users\blow\source\repos\right angle triangle with number - looping\right angle triangle with number - looping\obj\Debug\right angle triangle with number - looping.csproj.AssemblyReference.cache
+C:\Users\blow\source\repos\right angle triangle with number - looping\right angle triangle with number - looping\obj\Debug\right angle triangle with number - looping.csproj.CoreCompileInputs.cache
+C:\Users\blow\source\repos\right angle triangle with number - looping\right angle triangle with number - looping\obj\Debug\right angle triangle with number - looping.exe
+C:\Users\blow\source\repos\right angle triangle with number - looping\right angle triangle with number - looping\obj\Debug\right angle triangle with number - looping.pdb
